@@ -19,6 +19,7 @@ public class Extend extends b{
 		System.out.println("调用Extend构造方法");
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		// TODO 自动生成的方法存根
 		Extend x = new Extend();
