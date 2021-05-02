@@ -1,5 +1,4 @@
-package over;
-//方法重构
+package com.zjy.util;
 public class Demo {
 
 	public static void main(String[] args) {
